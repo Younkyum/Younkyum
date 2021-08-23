@@ -6,8 +6,6 @@ Contact Me :
 <a href="https://www.notion.so/YounKyum-ON-ve-eb343f49c4ec41f49a7a74ed1e69cbba" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flate&logo=Notion&logoColor=ffffff"/></a>
 <a href="https://github.com/Younkyum" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=GitHub&logoColor=ffffff"/></a>
 </br>
-</br>
-</br>
 Tect Stack : 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=ffffff"/>
