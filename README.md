@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=300&section=header&text=Younkyum%20Jin&fontSize=90&desc=HUFS%202021)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=300&section=header&text=Younkyum%20Jin&fontSize=90&fontcolor=ffffff&animation=fadeIn)
 
 <h3><b>:iphone:  Contact</b></h3>
 
