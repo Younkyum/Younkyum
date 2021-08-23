@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/youn_0103_ant/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=ffffff"/></a>
 <a href="https://www.notion.so/YounKyum-ON-ve-eb343f49c4ec41f49a7a74ed1e69cbba" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flate&logo=Notion&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flate&logo=Gmail&logoColor=ffffff"/></a>
-<img src="https://img.shields.io/badge/Naver-03C75A?style=flate&logo=NaverMail&logoColor=ffffff"/></a>
+<img src="https://img.shields.io/badge/NaverMail-03C75A?style=flate&logo=Naver&logoColor=ffffff"/></a>
 <a href="https://github.com/Younkyum" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=GitHub&logoColor=ffffff"/></a>
 
 <h3><b>:computer:  Tech Stack</b></h3>
