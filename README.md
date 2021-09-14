@@ -3,7 +3,7 @@
 
 <h3><b>:iphone:  Contact</b></h3>
 
-<a href="https://www.instagram.com/youn_0103_ant/" target="_blank"><img src="https://img.shields.io/badge/youn_0103_ant-E4405F?style=flat-square&logo=instagram&logoColor=ffffff"/></a>
+<a href="https://www.instagram.com/youn_0103_bear/" target="_blank"><img src="https://img.shields.io/badge/youn_0103_bear-E4405F?style=flat-square&logo=instagram&logoColor=ffffff"/></a>
 <a href="https://www.notion.so/YounKyum-ON-ve-eb343f49c4ec41f49a7a74ed1e69cbba" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/jinyounkyum@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/jinyounkyum@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=ffffff"/></a>
