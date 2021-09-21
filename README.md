@@ -7,7 +7,7 @@
 <a href="https://www.notion.so/YounKyum-ON-ve-eb343f49c4ec41f49a7a74ed1e69cbba" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/jinyounkyum@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/jinyounkyum@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=ffffff"/></a>
-<a href="https://github.com/Younkyum" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=GitHub&logoColor=ffffff"/></a>
+<a href="https://younkyum.github.io/" target="_blank"><img src="https://img.shields.io/badge/github_blog-181717?style=flat-square&logo=GitHub&logoColor=ffffff"/></a>
 
 <h3><b>:computer:  Tech Stack</b></h3>
 
