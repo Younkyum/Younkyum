@@ -18,3 +18,6 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=ffffff"/></a>
+<br>
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YounkyumID&show_icons=true&theme=radical)
