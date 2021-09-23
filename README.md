@@ -21,4 +21,4 @@
 <br>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Younkyum&show_icons=true&theme=dark)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Younkyum)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Younkyum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
