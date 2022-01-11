@@ -1,8 +1,8 @@
-
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=300&section=header&text=YounKyum%20Jin&fontSize=70&fontColor=ffffff&animation=fadeIn)
 
 <h3><b>:iphone:  Contact</b></h3>
-<div align="center">
+
   
 <a href="https://www.instagram.com/yk__o1o3/" target="_blank"><img src="https://img.shields.io/badge/yk__o1o3-E4405F?style=flat-square&logo=instagram&logoColor=ffffff"/></a>
 <a href="https://www.notion.so/YounKyum-ON-ve-eb343f49c4ec41f49a7a74ed1e69cbba" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=ffffff"/></a>
