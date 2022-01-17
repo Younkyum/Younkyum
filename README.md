@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=300&section=header&text=YounKyum%20Jin&fontSize=70&fontColor=ffffff&animation=fadeIn)
 
 
-<h3><b>:iphone:  Contact</b></h3>
+<h3><b>:iphone:  Contact  :iphone:</b></h3>
 
   
 <a href="https://www.instagram.com/yk__o1o3/" target="_blank"><img src="https://img.shields.io/badge/yk__o1o3-E4405F?style=flat-square&logo=instagram&logoColor=ffffff"/></a>
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/jinyounkyum@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=ffffff"/></a>
 <a href="https://younkyum.github.io/" target="_blank"><img src="https://img.shields.io/badge/github_blog-181717?style=flat-square&logo=GitHub&logoColor=ffffff"/></a>
 
-<h3><b>:computer:  Tech Stack</b></h3>
+<h3><b>:computer:  Tech Stack  :computer:</b></h3>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff"/></a>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=ffffff"/></a>
