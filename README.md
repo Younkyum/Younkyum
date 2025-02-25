@@ -12,7 +12,7 @@
 
 <h3><b>:computer:  Tech Stack  :computer:</b></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=swift,nodejs,flutter,python,go&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,js,ts,nodejs,flutter,python,go,mysql,aws&theme=light)](https://skillicons.dev)
 
 
 <br>
